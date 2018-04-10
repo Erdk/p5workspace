@@ -1,0 +1,8 @@
+{
+  "name": "p5workspace",
+  "projects": [
+    "fibbonacci",
+    "perlin_noice_flow",
+    "skull"
+  ]
+}
